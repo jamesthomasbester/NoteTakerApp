@@ -8,8 +8,11 @@ the project front end was provided to me from Monash as this project is focused 
 
 ## Screenshots
 
-![Screenshot 2022-05-05 221622](https://user-images.githubusercontent.com/46641259/166921363-9f35784c-ce55-46c4-a1aa-4b8e29634a89.png)
-![Screenshot 2022-05-05 221622](https://user-images.githubusercontent.com/46641259/166921363-9f35784c-ce55-46c4-a1aa-4b8e29634a89.png)
+![note taker](https://user-images.githubusercontent.com/46641259/168065066-8f2cd495-382c-4283-bf28-f0cd3556efa2.png)
+
+![note taker 2](https://user-images.githubusercontent.com/46641259/168065096-9fbc1fd6-97a0-48ab-868c-4bcc59775c43.png)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/46641259/168065133-0bf9eb77-043c-44aa-a8c5-894782782a00.gif)
 
 
 ## Demo
